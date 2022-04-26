@@ -2,7 +2,7 @@
 Project designed to cover all selenium concepts with examples</br>
 <h1>Coverage</h1>
 This project covers all concepts related to selenium 3 and some advance concepts available with selenium 4 version</br>
-below is the list
+below is the list</br>
 1. Locators</br>
 2. Handling drop downs</br>
 3. Handling pop ups, window pop ups, java script pop up</br>
